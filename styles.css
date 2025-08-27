@@ -1,0 +1,32 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    text-decoration: underline;
+    text-indent: 1rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    bottom: 50rem;
+    text-indent: 1rem;
+}
+
+body {
+    height: 90vh;
+    background-image: url(https://assets.lfgruppe.de/oRH5euaRycAxo5NuSaShxkCFiaQ=/1280x542/smart/https%3A%2F%2Fwww.versicherungsforen.net%2Fversicherungs%2Fs3fs-public%2F2021-05%2Fgettyimages-59014765016-9.jpg?itok=b_apVRO4);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#box {
+    height: 0.8rem;
+    width: 84.5rem;
+    background-color: white;
+}
