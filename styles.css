@@ -153,3 +153,11 @@ h6 {
     position: relative;
     top: 5rem;
 }
+
+#box7 {
+    height: 0.8rem;
+    width: 40rem;
+    background-color: black;
+    position: relative;
+    top: 4.5rem;
+}
